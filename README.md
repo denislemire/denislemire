@@ -1,6 +1,6 @@
 👋 Hello, World!
 
-```
+```yaml
 ## A little bit about me.
 ## Denis Lemire
 ## Fri Jul  7 19:22:05 MDT 2023
