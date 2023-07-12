@@ -45,5 +45,7 @@ favorites:
 * [Reusable Config Reference Guide](https://circleci.com/docs/reusing-config/)
 * [Docker Images](https://circleci.com/developer/images)
 * [Orb Registry](https://circleci.com/developer/orbs)
+* [API Documentation v1](https://circleci.com/docs/api/v1)
+* [API Documentation v2](https://circleci.com/docs/api/v2)
 * [Support Center](https://support.circleci.com)
 * [Community Discussion](https://discuss.circleci.com/)
