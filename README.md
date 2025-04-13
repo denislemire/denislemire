@@ -16,6 +16,7 @@ profile:
 wisdom: 
   - The truth is in the packets
   - The simplest problems are the most evasive
+  - Progress isn't a leap, it's a loop
   - There are two ways to indent, "Tabs" and "Wrong"
 
 career: 
